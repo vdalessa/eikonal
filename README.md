@@ -1,6 +1,7 @@
 # eikonal
 
 OpenFOAM solvers for Eikonal equation.
+
 The solvers can be used within both OpenFOAM-v2.3.x and OpenFOAM-v2112.
 
 Reference:
